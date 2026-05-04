@@ -1,0 +1,195 @@
+﻿{
+  "artists": {
+    "phat-huy-t4": {
+      "artistName": "Phát Huy T4",
+      "songs": [
+        {
+          "id": "phathuy-001",
+          "title": "Số 1 Thế Giới",
+          "duration": "3:27",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777880945/S%E1%BB%91_1_Th%E1%BA%BF_Gi%E1%BB%9Bi_tyji9o.mp3"
+        },
+        {
+          "id": "phathuy-002",
+          "title": "Em Là Kẻ Đáng Thương",
+          "duration": "4:21",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777880926/Em_L%C3%A0_K%E1%BA%BB_%C4%90%C3%A1ng_Th%C6%B0%C6%A1ng_nscxgf.mp3"
+        },
+        {
+          "id": "phathuy-003",
+          "title": "Ngày Bình Thường Quên Người Mình Thương",
+          "duration": "4:33",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777880941/Ng%C3%A0y_B%C3%ACnh_Th%C6%B0%E1%BB%9Dng_Qu%C3%AAn_Ng%C6%B0%E1%BB%9Di_M%C3%ACnh_Th%C6%B0%C6%A1ng_xvteux.mp3"
+        },
+        {
+          "id": "phathuy-004",
+          "title": "Chẳng Thể Nghe Con Tim",
+          "duration": "5:15",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777880760/Ch%E1%BA%B3ng_Th%E1%BB%83_Nghe_Con_Tim_qofjpk.mp3"
+        },
+        {
+          "id": "phathuy-005",
+          "title": "Tấm Thân Dãi Dầu",
+          "duration": "4:27",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777880946/T%E1%BA%A5m_Th%C3%A2n_D%C3%A3i_D%E1%BA%A7u_w0tqsk.mp3"
+        },
+        {
+          "id": "phathuy-006",
+          "title": "Thương Người Không Thương",
+          "duration": "3:48",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777880945/Th%C6%B0%C6%A1ng_Ng%C6%B0%E1%BB%9Di_Kh%C3%B4ng_Th%C6%B0%C6%A1ng_dlgep2.mp3"
+        }
+      ]
+    },
+
+    "danhka": {
+      "artistName": "DanhKa",
+      "songs": [
+        {
+          "id": "danhka-001",
+          "title": "Tình Ka - Mộng Mer Version",
+          "duration": "4:52",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881742/T%C3%8CNH_KA_M%E1%BB%98NG_MER_VERSION_-_DANHKA_X_PHAN_ANN_-_DanhKa_Official_ttwsic.mp3"
+        },
+        {
+          "id": "danhka-002",
+          "title": "Sợi Chỉ Hồng",
+          "duration": "4:09",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881743/S%E1%BB%A2I_CH%E1%BB%88_H%E1%BB%92NG_-_HANA_C%E1%BA%A8M_TI%C3%8AN_x_DANHKA_OFFICAL_MUSIC_VIDEO_OST_C%C6%AF%E1%BB%9AI_V%E1%BB%A2_CHO_CHA_-_Hana_C%E1%BA%A9m_Ti%C3%AAn_Official_if7k7j.mp3"
+        },
+        {
+          "id": "danhka-003",
+          "title": "Xem Này Có Ưng",
+          "duration": "4:11",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881743/DANHKA_XEM_N%C3%80Y_C%C3%93_%C6%AFNG_OFFICIAL_MUSIC_VIDEO_NH%E1%BA%A0C_T%E1%BA%BET_2025_%E1%BB%9E_%C4%91%E1%BA%A7u_l%C3%A0ng_anh_%C4%91%C6%B0%E1%BB%A3c_danh_-_DanhKa_Official_epkgcp.mp3"
+        },
+        {
+          "id": "danhka-004",
+          "title": "Xuân Vu Quy - Remake ChachaCha",
+          "duration": "3:11",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881744/DANHKA_XU%C3%82N_VU_QUY_REMAKE_CHACHACHA_OFFICIAL_MUSIC_VIDEO_NH%E1%BA%A0C_T%E1%BA%BET_2024_N%C3%A0y_b%C3%A1nh_ch%C6%B0ng_xanh_-_DanhKa_Official_pphxw1.mp3"
+        },
+        {
+          "id": "danhka-005",
+          "title": "Qua Cầu Rước Em",
+          "duration": "4:56",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881746/DANHKA_QUA_C%E1%BA%A6U_R%C6%AF%E1%BB%9AC_EM_OFFICIAL_MUSIC_VIDEO_Anh_b%E1%BA%AFc_c%C3%A1i_gh%E1%BA%BF_%C4%91%E1%BB%83_ng%C3%B3ng_trong_em_v%E1%BB%81_-_DanhKa_Official_emuygm.mp3"
+        },
+        {
+          "id": "danhka-006",
+          "title": "Tình Ka",
+          "duration": "6:29",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881746/DANHKA_T%CC%80NH_KA_OFFICIAL_MUSIC_VIDEO_-_G5R_SQUAD_Official_sxptjp.mp3"
+        },
+        {
+          "id": "danhka-007",
+          "title": "Ở Bên Bờ Sông",
+          "duration": "3:47",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881793/DANHKA_%E1%BB%9E_B%C3%8AN_B%E1%BB%9C_S%C3%94NG_OFFICIAL_MUSIC_VIDEO_H%E1%BB%8CC_VI%E1%BB%86N_C%E1%BA%A2I_L%C6%AF%C6%A0NG_L%E1%BA%A4Y_CHI%E1%BA%BEC_THUY%E1%BB%80N_NAN_-_DanhKa_Official_txirvn.mp3"
+        },
+        {
+          "id": "danhka-008",
+          "title": "Hải Lý Muôn Trùng",
+          "duration": "4:04",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881794/DANHKA_H%E1%BA%A2I_L%C3%9D_MU%C3%94N_TR%C3%99NG_OFFICIAL_MUSIC_VIDEO_-_DanhKa_Official_jfggih.mp3"
+        },
+        {
+          "id": "danhka-009",
+          "title": "Bắt Con Bướm Vàng",
+          "duration": "4:34",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881795/DANHKA_B%E1%BA%AET_CON_B%C6%AF%E1%BB%9AM_V%C3%80NG_OFFICIAL_MUSIC_VIDEO_-_DanhKa_Official_xs7tva.mp3"
+        },
+        {
+          "id": "danhka-010",
+          "title": "Bạch Tường Vi",
+          "duration": "5:00",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777881796/DANHKA_B%E1%BA%A0CH_T%C6%AF%E1%BB%9CNG_VI_OFFICIAL_MUSIC_VIDEO_-_DanhKa_Official_titrf8.mp3"
+        }
+      ]
+    },
+    
+    "nb3-hoai-bao": {
+      "artistName": "NB3 Hoài Bảo",
+      "songs": [
+        {
+          "id": "nb3-hoai-bao-001",
+          "title": "[Giao Hưởng] - Phi Vụ Rước Dâu]",
+          "duration": "3:52",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882946/GIAO_H%C6%AF%E1%BB%9ENG_PHI_V%E1%BB%A4_R%C6%AF%E1%BB%9AC_D%C3%82U_-_NB3_HO%C3%80I_B%E1%BA%A2O_MUSIC_AUDIO_LYRICS_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_pvcxw7.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-002",
+          "title": "Phi Vụ Rước Dâu",
+          "duration": "3:56",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882943/PHI_V%E1%BB%A4_R%C6%AF%E1%BB%9AC_D%C3%82U_-_NB3_HO%C3%80I_B%E1%BA%A2O_OFFICIAL_MUSIC_VIDEO_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_zq621r.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-003",
+          "title": "Mối Duyên Tàn",
+          "duration": "4:24",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882946/M%E1%BB%90I_DUY%C3%8AN_T%C3%80N_-_NB3_HO%C3%80I_B%E1%BA%A2O_OFFICIAL_MUSIC_VIDEO_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_womcpi.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-004",
+          "title": "Sao Em Lại Khóc Một Mình",
+          "duration": "4:40",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882946/SAO_EM_L%E1%BA%A0I_KH%C3%93C_M%E1%BB%98T_M%C3%8CNH_-_NB3_HO%C3%80I_B%E1%BA%A2O_OFFICIAL_MUSIC_VIDEO_4K_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_t4hqhe.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-005",
+          "title": "Duyên Sầu Cay",
+          "duration": "4:46",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882944/DUY%C3%8AN_S%E1%BA%A6U_CAY_-_NB3_HO%C3%80I_B%E1%BA%A2O_OFFICIAL_MUSIC_VIDEO_C%E1%BA%A0N_H%E1%BA%BET_CH%C3%89N_TI%C3%8AU_S%E1%BA%A6U_NG%C6%AF%E1%BB%9CI_%C4%90I_C%C3%93_NH%E1%BB%9A_TA_%C4%90%C3%82U_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_hsvg5g.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-006",
+          "title": "Tam Hải Ân Tình",
+          "duration": "4:30",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882943/Tam_H%E1%BA%A3i_%C3%82n_T%C3%ACnh_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_MV_Music_Video_Official_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_bh5cg1.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-007",
+          "title": "Ôm Sầu",
+          "duration": "4:35",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882942/%C3%94m_S%E1%BA%A7u_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_MV_Audio_Lyric_V%C3%A0_r%E1%BB%93i_anh_s%E1%BA%BD_ph%E1%BA%A3i_kh%C3%B3c_v%E1%BB%9Bi_nh%E1%BB%AFng_th%E1%BB%A9_t%E1%BB%ABng_l%C3%A0m_anh_c%C6%B0%E1%BB%9Di..._-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_sxxmh2.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-008",
+          "title": "Tìm Được Nhau Đâu Dễ Dàng",
+          "duration": "5:41",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882941/T%C3%8CM_%C4%90%C6%AF%E1%BB%A2C_NHAU_%C4%90%C3%82U_D%E1%BB%84_D%C3%80NG_-_NB3_HO%C3%80I_B%E1%BA%A2O_OFFICIAL_MUSIC_VIDEO_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_mb46un.mp3"
+        },
+        {
+          "id": "nb3-hoai-bao-009",
+          "title": "Trót Trao Duyên",
+          "duration": "4:44",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777882940/Tr%C3%B3t_Trao_Duy%C3%AAn_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_OFFICIAL_MUSIC_VIDEO_-_NB3_Ho%C3%A0i_B%E1%BA%A3o_Official_usjlfo.mp3"
+        }
+      ]
+    },
+
+    "buitruonglinh": {
+      "artistName": "buitruonglinh",
+      "songs": [
+        {
+          "id": "buitruonglinh-001",
+          "title": "Thịnh Vượng Việt Nam Sáng Ngời",
+          "duration": "3:54",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777883736/Th%E1%BB%8Bnh_V%C6%B0%E1%BB%A3ng_Vi%E1%BB%87t_Nam_S%C3%A1ng_Ng%E1%BB%9Di___buitruonglinh_-_buitruonglinh_rqxpgd.mp3"
+        },
+        {
+          "id": "buitruonglinh-002",
+          "title": "Yêu Người Có Ước Mơ",
+          "duration": "4:56",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777883743/Y%C3%AAu_Ng%C6%B0%E1%BB%9Di_C%C3%B3_%C6%AF%E1%BB%9Bc_M%C6%A1___buitruonglinh_-_buitruonglinh_tr6taw.mp3"
+        },
+        {
+          "id": "buitruonglinh-003",
+          "title": "Dù Cho Mai Về Sau",
+          "duration": "3:58",
+          "audioUrl": "https://res.cloudinary.com/dgnw2dbj5/video/upload/v1777883738/D%C3%B9_Cho_Mai_V%E1%BB%81_Sau_Official_Music_Video___buitruonglinh_-_buitruonglinh_iq4vdz.mp3"
+        }
+      ]
+    }
+  }
+}

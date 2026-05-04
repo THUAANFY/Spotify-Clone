@@ -1,0 +1,62 @@
+﻿.artist-swiper-wrap {
+  position: relative;
+}
+
+.artist-swiper {
+  overflow: hidden;
+  width: min(100%, 950px);
+}
+
+.artist-swiper .swiper-wrapper {
+  display: flex;
+}
+
+.artist-swiper .swiper-slide {
+  height: auto;
+}
+
+.artist-card {
+  min-width: 0;
+}
+
+.artist-nav {
+  position: absolute;
+  top: 34%;
+  z-index: 10;
+  display: inline-flex;
+  height: 32px;
+  width: 32px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(20, 20, 20, 0.88);
+  color: #fff;
+  font-size: 20px;
+}
+
+.artist-nav:hover {
+  background: rgba(45, 45, 45, 0.96);
+}
+
+.artist-nav-prev {
+  left: 6px;
+}
+
+.artist-nav-next {
+  right: 6px;
+}
+
+.artist-nav.swiper-button-disabled {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
